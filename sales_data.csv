@@ -1,0 +1,11 @@
+Order ID,Customer Name,Product,Quantity,Price,Order Date,Region
+1001,Ahmet Yılmaz,Laptop,2,15000,2024-01-15,Marmara
+1002,ayşe demir,Telefon,1,8000,2024-01-16,Ege
+1003,MEHMET KAYA,Tablet,3,5000,2024-01-17,İç Anadolu
+1004,Ayşe Demir,Telefon,1,8000,2024-01-16,Ege
+1005,ahmet yılmaz,Laptop,,15000,2024-01-15,Marmara
+1006,Fatma Şahin,Kulaklık,5,500,2024-01-18,Akdeniz
+1007,ali öztürk,Monitör,2,3000,2024-01-19,Marmara
+1008,FATMA ŞAHİN,Kulaklık,5,500,2024-01-18,Akdeniz
+1009,Zeynep Kılıç,klavye,10,200,2024-01-20,Ege
+1010,Ahmet Yılmaz,Laptop,2,,2024-01-15,Marmara
